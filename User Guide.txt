@@ -1,0 +1,127 @@
+
+🎙️ SpidyCodez AI Assistant - User Guide
+----------------------------------------
+Welcome to the Spidu Family!
+
+🔍 Overview
+-----------
+Meet your anime-style virtual assistant developed by SpidyCodez — designed to perform real-time tasks, search the web, talk naturally
+
+There are two versions of the assistant:
+
+1. Wifu (EXE Version)
+   - Offline support
+   - Fast and responsive
+   - Easily installable .exe file
+   - ⚠️ Slightly less conversational but supports most commands
+
+2. Hori (API Version)
+   - Highly talkative and more natural in conversation
+   - Uses Edge TTS + external APIs
+   - ⚠️ Not available as an .exe file (Python script only)
+
+   STEPS TO ADD API--
+   1 - go to openrouter.ai website
+   2 - create an API KEY
+   3-  paste it in this line of code  (OPENROUTER_API_KEY = "______PASTE YOU API KEY HERE_________")
+   4- you are all set to use your AIs API version
+
+⚙️ System Requirements
+----------------------
+- Platform: Windows 10/11
+- Internet: Required for most features
+- Microphone Access: Required for voice commands
+- Python: Not required for EXE version (Wifu)
+
+🎮 How to Use
+-------------
+Chat Mode:
+- Type your prompt in the chat window
+
+Voice Mode:
+1. Press F2 (or Alt+F2) once to activate listening mode.
+2. Speak your command.
+3. The assistant will process and respond.
+
+🧠 What Can Your AI Do?
+------------------------
+- Open websites (Google, YouTube, Amazon, etc.)
+- Search on Google or YouTube
+- Play music on Spotify
+- Tell about any celebrity
+- Set timers
+- Close browser tabs
+- Define words
+- Engage in small conversations
+- Repeat what you say (on command)
+
+🗣️ Sample Voice Commands
+-------------------------
+- "open YouTube"
+- "search Naruto fights on YouTube"
+- "search best AI tools on Google"
+- "set timer for 10 seconds"
+- "play Enemy by Imagine Dragons on Spotify"
+- "repeat after me"
+- "who is Elon Musk"
+- "okay stop"
+
+🧩 Features Breakdown
+----------------------
+| Feature                    | Wifu (EXE) ✅     | Hori (API) 🌐         |
+|---------------------------|------------------|------------------------|
+| Voice-based conversation  | Basic            | Advanced, natural      |
+| Available in EXE form     | ✅ Yes           | ❌ No                  |
+| Internet Required         | Yes (some tasks) | Yes (API-based)        |
+| Edge TTS Voice            | Yes              | Yes                    |
+| Wake Word Support         | Coming soon      | Coming soon            |
+
+⚠️ Important Notes
+-------------------
+- Press F2 once only. Don’t hold or double press.
+- While typing, use lowercase letters and correct spelling.
+- This is a hobby project; minor bugs may occur.
+- Developers can modify the Python source code.
+- you can also choose voice that you like 
+You can use these with edge-tts (which you’re already using).
+
+✅ Popular English Voices:
+Voice Name	Language	Description 
+
+en-US-JennyNeural	US English	Female, natural & expressive
+
+en-US-GuyNeural	        US English	        Male, smooth
+
+en-GB-RyanNeural	UK English	Male, British accent
+
+en-IN-NeerjaNeural	Indian English	Female, Indian accent
+
+en-IN-PrabhatNeural	Indian English	Male, Indian accent
+
+🗣️ Indian Accent Voices:
+
+en-IN-NeerjaNeural (Female)
+
+en-IN-PrabhatNeural (Male)
+
+👾 Anime/Youthful-like Voices:
+
+ja-JP-NanamiNeural (Japanese, cute anime tone)
+
+ko-KR-SoonBokNeural (Korean, expressive)
+
+📌 Full list: Use command edge-tts --list-voices > voices.txt
+
+🎉 Final Note
+-------------
+Thanks for trying out my AI assistant. Your support helps me grow.
+Enjoy chatting with your new anime-style digital buddy!
+
+
+
+
+IMPORTANT IMFORMATION----
+
+"Due to the previous update of Spotify my AI is unable to play song on Spotify but it can search the song and you will need to pess play button "
+
+
